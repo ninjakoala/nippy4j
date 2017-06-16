@@ -1,4 +1,4 @@
-(defproject com.ninjakoala/nippy4j "1.0.0"
+(defproject com.ninjakoala/nippy4j "1.0.1-SNAPSHOT"
   :description "Java wrapper for Nippy"
   :url "https://github.com/ninjakoala/nippy4j"
   :license {:name "Eclipse Public License"
