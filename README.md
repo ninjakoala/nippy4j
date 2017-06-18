@@ -1,3 +1,5 @@
+[![Clojars Project](https://img.shields.io/clojars/v/com.ninjakoala/nippy4j.svg)](https://clojars.org/com.ninjakoala/nippy4j) [![Build Status](https://travis-ci.org/ninjakoala/nippy4j.svg?branch=master)](https://travis-ci.org/ninjakoala/nippy4j)
+
 ```java
 import com.ninjakoala.nippy4j.Nippy4J;
 
